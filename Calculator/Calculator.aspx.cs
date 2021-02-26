@@ -10,6 +10,7 @@ namespace Calculator
     public partial class Calculator : System.Web.UI.Page
     {
         double say1, say2, netice;
+
         string op;
         void method(string oprt)
         {
